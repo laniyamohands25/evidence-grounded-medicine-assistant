@@ -82,7 +82,7 @@ The proposed system will be evaluated using:
 ## Team
 
 - Laniya Mohan
-- Project Team Member 2
+- Savin Jees V
 
 ## Disclaimer
 
