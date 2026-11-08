@@ -1,7 +1,3 @@
-# evidence-grounded-medicine-assistant
-An evidence-grounded Generative AI application that identifies active and inactive medicine ingredients and explains their purposes and safety considerations using pretrained LLMs and Retrieval-Augmented Generation.
-# Evidence-Grounded Generative AI Assistant for Understanding Medicine Ingredients and Safety Information
-
 An evidence-grounded Generative AI application that identifies active and inactive ingredients in medicines and explains their purposes and relevant safety information using reliable pharmaceutical sources and Retrieval-Augmented Generation (RAG).
 
 ## Project Overview
